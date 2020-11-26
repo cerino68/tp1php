@@ -12,7 +12,7 @@
         break;
         default : $pageAInclure = "article1.html"; 
     }
-// Sinon :
+
 } else {
     $pageAInclure = "article1.html";
 }
