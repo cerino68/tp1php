@@ -1,6 +1,6 @@
 <?php
  echo "<h1>BONJOUR</h1>" ;
-
+var_dump($_GET);
  if(isset($_GET["page"])) {
 
     switch($_GET["page"]) {
